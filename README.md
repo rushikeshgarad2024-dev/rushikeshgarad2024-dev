@@ -4,12 +4,23 @@
   <img src="https://komarev.com/ghpvc/?username=rushikeshgarad2024-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-🚀 **Mechanical & Computational Engineer** passionate about bridging **Mechanical Engineering, FEA/CFD Simulation, EV Systems, Robotics & Autonomous Control** with **Modern Full-Stack & 3D WebGL Applications**.
+🚀 **Mechanical & Computational Engineer** specializing in **Computational Physics (FEA/CFD), Generative AI for CAD, Autonomous Robotics, Electric Vehicle (EV) Systems & Computer Vision Quality Inspection**.
 
-- 🔭 **Research & Engineering:** Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), EV Battery Thermal Systems (BTMS), Topology Optimization, Autonomous Path Planning
-- ⚙️ **Core Engineering Toolchain:** Direct Stiffness Method, Navier-Stokes Solver, Denavit-Hartenberg Matrices, Eigenvalue Modal Analysis, SIMP Generative Design
-- 💻 **Software & Computation:** Python (NumPy, SciPy), JavaScript/TypeScript, Three.js (WebGL), React, Node.js, Express, Git, Docker
+- 🔭 **Research & Engineering:** Generative Design (SIMP), EV Battery Thermal Systems (BTMS), Text-to-CAD Synthesis, Computer Vision Defect Detection, Autonomous Path Planning
+- ⚙️ **Core Engineering Toolchain:** Finite Element Analysis (FEA), Navier-Stokes CFD, Denavit-Hartenberg Robotics Kinematics, 6-DOF Flight Dynamics, Modal Analysis
+- 💻 **Software & Computation:** Python (NumPy, SciPy, PyTorch), JavaScript/TypeScript, Three.js (WebGL), React, Node.js, Express, Git, Docker
 - 📫 **Contact Me:** [rushikeshgarad2024@gmail.com](mailto:rushikeshgarad2024@gmail.com)
+
+---
+
+### 🌟 Featured Curations & High-Impact Tools
+
+| Repository | Description | Domain & Stack |
+| :--- | :--- | :--- |
+| ⭐ [**awesome-mechanical-engineering-open-source**](https://github.com/rushikeshgarad2024-dev/awesome-mechanical-engineering-open-source) | The definitive curated directory of open-source CAD, FEA, CFD, robotics, EV simulation tools, and Python datasets. | `Curated List` `Open-Source` `Engineering` |
+| 🪄 [**llm-cad-copilot-engine**](https://github.com/rushikeshgarad2024-dev/llm-cad-copilot-engine) | Generative AI Text-to-CAD Copilot synthesizing parametric 3D CAD geometries (OpenSCAD, STEP, STL) from natural language prompts. | `Generative AI` `Text-to-CAD` `OpenSCAD` `Python` |
+| 🔍 [**ai-computer-vision-defect-detection**](https://github.com/rushikeshgarad2024-dev/ai-computer-vision-defect-detection) | Automated Optical Inspection (AOI) deep vision pipeline detecting micro-cracks, weld porosity, scratches & PCB bridges. | `Computer Vision` `Quality Control` `PyTorch` `AI` |
+| 🛸 [**drone-quadcopter-flight-dynamics-simulator**](https://github.com/rushikeshgarad2024-dev/drone-quadcopter-flight-dynamics-simulator) | 6-DOF Quadcopter drone flight dynamics, quaternion kinematics & PID attitude stabilization flight simulator. | `Aerospace` `Flight Dynamics` `PID Control` `6-DOF` |
 
 ---
 
@@ -17,9 +28,9 @@
 
 | Project | Domain & Key Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| 🔋 [**ev-battery-thermal-management-system**](https://github.com/rushikeshgarad2024-dev/ev-battery-thermal-management-system) | Lumped capacitance thermal model for Li-Ion battery packs, Joulean core heating ($I^2R$), cold-plate liquid cooling & SOC degradation prevention. | `EV Engineering` `Thermal Systems` `Python` `WebGL` |
-| 🧬 [**generative-cad-topology-optimization**](https://github.com/rushikeshgarad2024-dev/generative-cad-topology-optimization) | SIMP algorithm generative structural optimization minimizing compliance ($\min U^TKU$) for lightweight aerospace & 3D printed brackets. | `Generative Design` `SIMP` `FEA` `Aerospace` |
-| 📐 [**cad-fea-stress-analyzer**](https://github.com/rushikeshgarad2024-dev/cad-fea-stress-analyzer) | Finite Element Analysis (FEA) direct stiffness matrix solver computing nodal deflections, Von Mises yield criteria & Factor of Safety (FoS). | `FEA` `Direct Stiffness` `Python` `WebGL` |
+| 🔋 [**ev-battery-thermal-management-system**](https://github.com/rushikeshgarad2024-dev/ev-battery-thermal-management-system) | Lumped capacitance thermal model for Li-Ion battery packs, Joulean core heating ($I^2R$), cold-plate liquid cooling & SOC protection. | `EV Engineering` `Thermal Systems` `Python` `WebGL` |
+| 🧬 [**generative-cad-topology-optimization**](https://github.com/rushikeshgarad2024-dev/generative-cad-topology-optimization) | SIMP algorithm generative structural optimization minimizing compliance ($\min U^TKU$) for lightweight aerospace components. | `Generative Design` `SIMP` `FEA` `Aerospace` |
+| 📐 [**cad-fea-stress-analyzer**](https://github.com/rushikeshgarad2024-dev/cad-fea-stress-analyzer) | Finite Element Analysis (FEA) direct stiffness matrix solver computing nodal deflections, Von Mises yield criteria & FoS heatmaps. | `FEA` `Direct Stiffness` `Python` `WebGL` |
 | 🌊 [**thermo-fluid-simulator**](https://github.com/rushikeshgarad2024-dev/thermo-fluid-simulator) | 2D Transient Heat Conduction (FDM) & Navier-Stokes aerodynamic streamline simulator with dynamic thermal gradient isobars. | `CFD` `Heat Transfer` `Navier-Stokes` `FDM` |
 | 🏎️ [**automotive-aerodynamics-suite**](https://github.com/rushikeshgarad2024-dev/automotive-aerodynamics-suite) | Vehicle aerodynamic drag force ($F_d$) and power consumption solver with NACA 4-digit airfoil geometry modeling. | `Aerodynamics` `Automotive` `NACA Airfoil` |
 | 📊 [**vibration-modal-analysis-suite**](https://github.com/rushikeshgarad2024-dev/vibration-modal-analysis-suite) | MDOF structural vibration solver extracting natural frequencies ($\det(K - \omega^2 M) = 0$), mode shapes & resonance damping. | `Vibrations` `Eigenvalues` `Acoustics` `Dynamics` |
@@ -54,10 +65,12 @@
   <img src="https://img.shields.io/badge/EV_Battery_Systems_(BTMS)-2E7D32?style=for-the-badge&logoColor=white" alt="EV BTMS" />
   <img src="https://img.shields.io/badge/Robotics_Kinematics-7B1FA2?style=for-the-badge&logoColor=white" alt="Robotics" />
   <img src="https://img.shields.io/badge/Generative_Design_(SIMP)-4527A0?style=for-the-badge&logoColor=white" alt="Generative Design" />
-  <img src="https://img.shields.io/badge/Vibration_Dynamics-C2185B?style=for-the-badge&logoColor=white" alt="Vibrations" />
+  <img src="https://img.shields.io/badge/Computer_Vision-E91E63?style=for-the-badge&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/Flight_Dynamics-00ACC1?style=for-the-badge&logoColor=white" alt="Flight Dynamics" />
   <br/>
   <!-- Programming & Web -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
