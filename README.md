@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/rushikesh-garad-28b7a5342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rushikeshgarad2024@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-34D399?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Specialization-Simulation%20%26%20AI-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-India-EC4899?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -118,6 +118,7 @@ I am a **Mechanical & Computational Engineer** specialized in developing high-pr
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rushikesh_Garad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-garad-28b7a5342)
 [![Email](https://img.shields.io/badge/Email-rushikeshgarad2024%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshgarad2024@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rushikeshgarad2024--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushikeshgarad2024-dev)
 
