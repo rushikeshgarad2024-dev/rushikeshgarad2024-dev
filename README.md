@@ -13,6 +13,17 @@
 
 ---
 
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🌐 [**interactive-3d-web**](https://github.com/rushikeshgarad2024-dev/interactive-3d-web) | Immersive 3D interactive web environment with real-time lighting, particle systems, and 60 FPS WebGL rendering. | `Three.js` `GSAP` `JavaScript` `Vite` |
+| 📋 [**taskflow-todo-app**](https://github.com/rushikeshgarad2024-dev/taskflow-todo-app) | Clean, responsive productivity and task management app with priority tagging, category filtering, and backend state sync. | `Node.js` `Express` `JavaScript` `CSS3` |
+| 🛡️ [**kage-shinobi**](https://github.com/rushikeshgarad2024-dev/kage-shinobi) | Interactive game & animation project featuring custom state management and sprite animations. | `JavaScript` `HTML5 Canvas` `CSS3` |
+| 🌍 [**ai-climate-dashboard**](https://github.com/rushikeshgarad2024-dev/ai-climate-dashboard) | Data visualization and analytics dashboard tracking environmental and climate metrics. | `Python` `APIs` `Data Analytics` |
+
+---
+
 ### 🛠️ Languages & Technologies
 
 <p align="left">
