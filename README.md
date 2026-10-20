@@ -97,10 +97,24 @@
 | 🦾 **[Robotics Kinematics Studio](https://github.com/rushikeshgarad2024-dev/robotics-kinematics-studio)** | 3-DOF / 6-DOF forward and inverse kinematics with Denavit–Hartenberg transforms and live visualization. | `Robotics` `FK/IK` `WebGL` |
 | 🚗 **[Autonomous Path Planner](https://github.com/rushikeshgarad2024-dev/autonomous-vehicle-path-planner)** | RRT* and Hybrid A* path planning with dynamic obstacle avoidance for AMRs and self-driving. | `RRT*` `A*` `Python` |
 
+<details>
+<summary><b>More engineering systems →</b></summary>
+
+<br />
+
+| Project | Engineering highlight | Stack |
+| :--- | :--- | :--- |
+| 📐 **[CAD & FEA Structural Stress Analyzer](https://github.com/rushikeshgarad2024-dev/cad-fea-stress-analyzer)** | Direct stiffness solver `[K]{U} = {F}`, Von Mises yield checks, and real-time factor-of-safety heatmaps. | `FEA` `Python` |
+| 🌊 **[Thermo-Fluid & CFD Simulator](https://github.com/rushikeshgarad2024-dev/thermo-fluid-simulator)** | 2D transient Fourier heat conduction (FDM) and Navier–Stokes streamline analysis with Reynolds-number study. | `CFD` `Thermal` |
+| 🏎️ **[Automotive Aerodynamics Suite](https://github.com/rushikeshgarad2024-dev/automotive-aerodynamics-suite)** | Vehicle drag force, power dissipation, and parametric NACA 4-digit airfoil modeling. | `Aerodynamics` `JS` |
+| 📊 **[Vibration & Modal Analysis Suite](https://github.com/rushikeshgarad2024-dev/vibration-modal-analysis-suite)** | MDOF eigenvalue solver `det(K − ω²M) = 0`, mode-shape visualization, and resonance damping. | `Structural` `Python` |
+| 🏭 **[Smart Manufacturing IIoT Dashboard](https://github.com/rushikeshgarad2024-dev/smart-manufacturing-iiot-dashboard)** | CNC spindle vibration monitoring against ISO 10816 and overall equipment effectiveness (OEE) telemetry. | `IIoT` `Industry 4.0` |
+| ⭐ **[Awesome Mechanical Engineering](https://github.com/rushikeshgarad2024-dev/awesome-mechanical-engineering-open-source)** | Curated open-source CAD, FEA, CFD, robotics, and EV simulation tools. | `Open Source` |
+
+</details>
+
 <p>
-  More work: <a href="https://github.com/rushikeshgarad2024-dev/awesome-mechanical-engineering-open-source"><b>Awesome Mechanical Engineering</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/rushikeshgarad2024-dev?tab=repositories"><b>All 60+ repositories</b></a>
+  <a href="https://github.com/rushikeshgarad2024-dev?tab=repositories"><b>Explore all 60+ repositories →</b></a>
 </p>
 
 ---
