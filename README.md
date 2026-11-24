@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://rushikeshgarad2024-dev.github.io/web-showcase/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-06070a?style=for-the-badge&logo=googlechrome&logoColor=8be9ff" alt="Live portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rushikesh-garad-28b7a5342"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rushikesh-garad-b811b1397/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rushikeshgarad2024@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-34D399?style=for-the-badge&logo=github&logoColor=white" alt="Open to opportunities" />
 </p>
@@ -188,7 +188,7 @@
   &nbsp;·&nbsp;
   <a href="https://rushikeshgarad2024-dev.github.io/web-showcase/"><b>Live portfolio</b></a>
   &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/rushikesh-garad-28b7a5342"><b>LinkedIn</b></a>
+  <a href="https://www.linkedin.com/in/rushikesh-garad-b811b1397/"><b>LinkedIn</b></a>
 </p>
 
 <div align="center">
